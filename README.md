@@ -23,9 +23,9 @@ The form captures basic student details such as **Name, Roll No, Class**, and st
 ---
 
 ## ⚙️ Tech Stack
-- **Frontend**: HTML5, CSS3, JavaScript (Vanilla)
+- **Frontend**: HTML5, CSS3, JavaScript
 - **Backend**: JsonPowerDB (JPDB) via REST API
-- **Tools**: Git, GitHub, NetBeans (optional)
+- **Tools**: Git, GitHub, NetBeans
 
 ---
 
@@ -35,7 +35,8 @@ The form captures basic student details such as **Name, Roll No, Class**, and st
 - Real-time **JavaScript form validation**
 - REST API calls to **JsonPowerDB** to:
   - Store student data
-  - Fetch records (if implemented)
+  - Fetch records
+  - update previous entries
 - Fully browser-based, **no backend hosting needed**
 - Secure transmission using `connToken` authentication
 
