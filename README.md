@@ -6,7 +6,7 @@ Form Layout: Design a clean and intuitive layout using HTML.
 
 Input Fields: Include fields like name, roll No, class, etc., using appropriate input types (<input>, <select>, <textarea>).
 
-Submit Button: Implement a submit button (<button type="submit">) to send data to the server.
+Submit Button: Implement a submit button  to send data to the server.
 
 JavaScript (Optional for Validation and Interactivity)
 Form Validation: Use JavaScript for client-side validation (e.g., required fields) to enhance user experience.
