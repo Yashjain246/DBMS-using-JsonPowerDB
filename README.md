@@ -42,7 +42,8 @@ The form captures basic student details such as **Name, Roll No, Class**, and st
 ---
 
 ## 🎨 Illustrations
-![Form Screenshot](./screenshot.png) <!-- Add your image in repo and update the path -->
+![image](https://github.com/user-attachments/assets/8a0e52fa-61c0-4455-aecf-cf9ac82d7a45)
+![image](https://github.com/user-attachments/assets/92612ff3-dca2-47b1-85a2-6e27cafe10c4)
 > _Simple and elegant UI capturing student details_
 
 ---
@@ -93,7 +94,7 @@ The form captures basic student details such as **Name, Roll No, Class**, and st
 ---
 
 ## 📄 License
-MIT License — feel free to use, modify, and distribute with credit.
+Feel free to use, modify, and distribute with credit.
 
 ---
 
